@@ -60,17 +60,14 @@ GoFood-FullStack/
 
 ### 1. Clone Repositories
 ```bash
-git clone https://github.com/yourusername/frontend.git
-git clone https://github.com/yourusername/admin.git
-git clone https://github.com/yourusername/backend.git
+https://github.com/insearchof-incredible/go_food-APP.git
 
-
-### **Frontend Setup**
+### 2. **Frontend Setup**
 cd frontend
 npm install
 npm run dev
 
-### **Admin Panel Setup**
+### 3. **Admin Panel Setup**
 cd admin
 npm install
 npm start
